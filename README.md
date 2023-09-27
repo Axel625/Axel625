@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola, soy Axel Yael Sanabria Lopez! 👋
 
-<!--
-**Axel625/Axel625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+- 👨‍🎓 Estudiante de la Universidad Tecnológica del Valle de Toluca (UTVT).
+- 🎓 Carrera: Ingeniería en Desarrollo y Gestión de Software.
+- 🚀 Especializado en Java, React.js, C++, PHP, Laravel y HTML.
+- 🌱 Aprendiendo Python.
 
-Here are some ideas to get you started:
+## Proyectos Destacados
+- [Proyecto 1](enlace-al-proyecto-1): Una breve descripción del proyecto 1.
+- [Proyecto 2](enlace-al-proyecto-2): Una breve descripción del proyecto 2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Java
+- React.js
+- C++
+- PHP
+- Laravel
+- HTML
+- Python (en proceso de aprendizaje)
+
+## Contáctame
+- 📧 Correo electrónico: tucorreo@example.com
+-
