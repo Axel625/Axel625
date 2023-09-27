@@ -5,10 +5,7 @@
 - 🎓 Carrera: Ingeniería en Desarrollo y Gestión de Software.
 - 🚀 Especializado en Java, React.js, C++, PHP, Laravel y HTML.
 - 🌱 Aprendiendo Python.
-
-## Proyectos Destacados
-- [Proyecto 1](enlace-al-proyecto-1): Una breve descripción del proyecto 1.
-- [Proyecto 2](enlace-al-proyecto-2): Una breve descripción del proyecto 2.
+- ⚓ Fan de One Piece. ¡La mejor serie de anime y manga!
 
 ## Habilidades
 - Java
@@ -20,5 +17,4 @@
 - Python (en proceso de aprendizaje)
 
 ## Contáctame
-- 📧 Correo electrónico: tucorreo@example.com
--
+- 📧 Correo electrónico: al222010625@gmail.com
