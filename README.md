@@ -1,4 +1,3 @@
- Aquí está una presentación animada de One Piece para mi perfil:
 
 # ¡Hola, soy Axel Yael Sanabria Lopez! 👋
 
