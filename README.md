@@ -1,3 +1,4 @@
+Hi, my name is Axel
 <div>
   <p align="center"> <img src="https://gifdb.com/images/high/one-piece-smiling-straw-hat-luffy-jz36w2zqojhanjhs.gif" width="400" height="250" /> </p>
 
@@ -9,6 +10,14 @@
     <li>🌱 Aprendiendo Python.</li>
     <li>⚓ Fan de One Piece.</li>
   </ul>
+  <ul>
+  <li>👨‍🎓 Student at the Technological University of Valle de Toluca (UTVT).</li>
+  <li>🎓 Major: Software Development and Management Engineering.</li>
+  <li>🚀 Specialized in Java, React.js, C++, PHP, Laravel, and HTML.</li>
+  <li>🌱 Learning Python.</li>
+  <li>⚓ One Piece fan.</li>
+</ul>
+
 
   <p align="center"> <img src="https://media.tenor.com/MMGYSBh3RrMAAAAC/anime.gif" width="250" height="150" /> </p>
 
@@ -28,5 +37,5 @@
   <h2>Contáctame</h2>
   <p>📧 Correo electrónico: al222010625@gmail.com</p>
 
-  <p align="center"> <img src="https://i.imgur.com/ikeaHhv.gif](https://media.tenor.com/utLKZ9xQIesAAAAC/onepiece-one-piece.gif)https://media.tenor.com/utLKZ9xQIesAAAAC/onepiece-one-piece.gif" width="400" height="200" /> </p>
+  <p align="center"> <img src="https://i.redd.it/1slnov9gcngb1.gif" width="400" height="200" /> </p>
 </div>
