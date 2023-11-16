@@ -1,5 +1,5 @@
 <div>
-  <p align="center"> <img src="https://i.pinimg.com/originals/1b/21/53/1b2153c687dd07a320b75ed76d7dab62.gif" width="400" height="250" /> </p>
+  <p align="center"> <img src="https://media.giphy.com/media/oVTze1WcLQ8wmZOm78/giphy.gif" width="400" height="250" /> </p>
 
   <h2>Acerca de mí</h2>
   <ul>
@@ -10,7 +10,7 @@
     <li>⚓ Fan de One Piece. ¡La mejor serie de anime y manga!</li>
   </ul>
 
-  <p align="center"> <img src="https://i.makeagif.com/media/5-20-2015/SyNrOL.gif" width="250" height="150" /> </p>
+  <p align="center"> <img src="https://i.imgur.com/J3Zs3Ao.gif" width="250" height="150" /> </p>
 
   <h2>Habilidades</h2>
   <ul>
@@ -23,7 +23,7 @@
     <li>Python (en proceso de aprendizaje)</li>
   </ul>
 
-  <p align="center"> <img src="https://thumbs.gfycat.com/WelcomeSpicyHammerkop-size_restricted.gif" width="300" height="150" /> </p>
+  <p align="center"> <img src="https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif" width="300" height="150" /> </p>
 
   <h2>Contáctame</h2>
   <p>📧 Correo electrónico: al222010625@gmail.com</p>
