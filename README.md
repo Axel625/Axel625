@@ -1,5 +1,5 @@
 <div>
-  <p align="center"> <img src="[https://media.giphy.com/media/oVTze1WcLQ8wmZOm78/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wattpad.com%2F412233507-im%25C3%25A1genes-y-memes-de-one-piece-gifs%2Fpage%2F2&psig=AOvVaw0NZZTXcFQVUa4-QrnN2FCS&ust=1700197925380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDU3vfgx4IDFQAAAAAdAAAAABAE)" width="400" height="250" /> </p>
+  <p align="center"> <img src="https://gifdb.com/images/high/one-piece-smiling-straw-hat-luffy-jz36w2zqojhanjhs.gif" width="400" height="250" /> </p>
 
   <h2>Acerca de mí</h2>
   <ul>
