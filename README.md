@@ -1,21 +1,9 @@
-¡Hola, soy Axel Yael Sanabria Lopez! 👋
-<p align="center"> <img src="https://i.pinimg.com/originals/1b/21/53/1b2153c687dd07a320b75ed76d7dab62.gif" width="400" height="250" /> </p>
+<div align="center">
+¡Hola! 👋 Soy Monkey D. Luffy
+<img src="https://i.pinimg.com/originals/e4/26/e6/e426e6fd1b693fb9d5486a275ba3ef00.gif" width="400"/>
 Acerca de mí
-👨‍🎓 Estudiante de la Universidad Tecnológica del Valle de Toluca (UTVT).
-🎓 Carrera: Ingeniería en Desarrollo y Gestión de Software.
-🚀 Especializado en Java, React.js, C++, PHP, Laravel y HTML.
-🌱 Aprendiendo Python.
-⚓ Fan de One Piece. ¡La mejor serie de anime y manga!
-<p align="center"> <img src="https://i.makeagif.com/media/5-20-2015/SyNrOL.gif" width="250" height="150" /> </p>
+Me gusta el mar, la carne y ¡convertirme en el Rey de los Piratas! Navego por el mundo con mi tripulación buscando el gran tesoro One Piece 🌊
+
+</div>
 Habilidades
-Java
-React.js
-C++
-PHP
-Laravel
-HTML
-Python (en proceso de aprendizaje)
-<p align="center"> <img src="https://thumbs.gfycat.com/WelcomeSpicyHammerkop-size_restricted.gif" width="300" height="150" /> </p>
-Contáctame
-📧 Correo electrónico: al222010625@gmail.com
-<p align="center"> <img src="https://i.imgur.com/ikeaHhv.gif" width="400" height="200" /> </p>
+<div align="center"> <img src="https://i.imgur.com/FEplhTh.gif" height="40"/> <img src="https://i.imgur.com/7VbMCcG.gif" height="40"/> <img src="https://i.imgur.com/hgrdPvO.gif" height="40"/> <img src="https://i.imgur.com/l2LIgoA.gif" height="40"/> <img src="https://i.imgur.com/A8Ny4fq.gif" height="40"/> </div>
