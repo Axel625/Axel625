@@ -7,10 +7,10 @@
     <li>🎓 Carrera: Ingeniería en Desarrollo y Gestión de Software.</li>
     <li>🚀 Especializado en Java, React.js, C++, PHP, Laravel y HTML.</li>
     <li>🌱 Aprendiendo Python.</li>
-    <li>⚓ Fan de One Piece. ¡La mejor serie de anime y manga!</li>
+    <li>⚓ Fan de One Piece.</li>
   </ul>
 
-  <p align="center"> <img src="https://i.imgur.com/J3Zs3Ao.gif" width="250" height="150" /> </p>
+  <p align="center"> <img src="[https://i.imgur.com/J3Zs3Ao.gif](https://www.gifcen.com/wp-content/uploads/2023/02/one-piece-gif-17.gif)" width="250" height="150" /> </p>
 
   <h2>Habilidades</h2>
   <ul>
@@ -28,5 +28,5 @@
   <h2>Contáctame</h2>
   <p>📧 Correo electrónico: al222010625@gmail.com</p>
 
-  <p align="center"> <img src="https://i.imgur.com/ikeaHhv.gif" width="400" height="200" /> </p>
+  <p align="center"> <img src="[https://i.imgur.com/ikeaHhv.gif](https://media.tenor.com/utLKZ9xQIesAAAAC/onepiece-one-piece.gif)https://media.tenor.com/utLKZ9xQIesAAAAC/onepiece-one-piece.gif" width="400" height="200" /> </p>
 </div>
