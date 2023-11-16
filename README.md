@@ -10,7 +10,7 @@
     <li>⚓ Fan de One Piece.</li>
   </ul>
 
-  <p align="center"> <img src="https://gifdb.com/images/high/one-piece-smiling-straw-hat-luffy-jz36w2zqojhanjhs.gif" width="250" height="150" /> </p>
+  <p align="center"> <img src="[https://gifdb.com/images/high/one-piece-smiling-straw-hat-luffy-jz36w2zqojhanjhs.gif](https://media.tenor.com/utLKZ9xQIesAAAAC/onepiece-one-piece.gif)" width="250" height="150" /> </p>
 
   <h2>Habilidades</h2>
   <ul>
