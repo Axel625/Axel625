@@ -4,13 +4,6 @@ Hi, my name is Axel
 
   <h2>Acerca de mí</h2>
   <ul>
-    <li>👨‍🎓 Estudiante de la Universidad Tecnológica del Valle de Toluca (UTVT).</li>
-    <li>🎓 Carrera: Ingeniería en Desarrollo y Gestión de Software.</li>
-    <li>🚀 Especializado en Java, React.js, C++, PHP, Laravel y HTML.</li>
-    <li>🌱 Aprendiendo Python.</li>
-    <li>⚓ Fan de One Piece.</li>
-  </ul>
-  <ul>
   <li>👨‍🎓 Student at the Technological University of Valle de Toluca (UTVT).</li>
   <li>🎓 Major: Software Development and Management Engineering.</li>
   <li>🚀 Specialized in Java, React.js, C++, PHP, Laravel, and HTML.</li>
