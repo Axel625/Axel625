@@ -4,8 +4,7 @@ Hi, my name is Axel
 
   <h2>Acerca de mí</h2>
   <ul>
-  <li>👨‍🎓 Student at the Technological University of Valle de Toluca (UTVT).</li>
-  <li>🎓 Major: Software Development and Management Engineering.</li>
+  <li>Softwareentwicklungs- und Managementingenieur.</li>
   <li>🚀 Specialized in Java, React.js, C++, PHP, Laravel, and HTML.</li>
   <li>🌱 Learning Python.</li>
   <li>⚓ One Piece fan.</li>
